@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>105.jpg</filename>
+	<path>D:\deeplearning_github\insects_detection\VOCdevkit\VOC2007\JPEGImages\105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>268</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chunchong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>98</ymin>
+			<xmax>203</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

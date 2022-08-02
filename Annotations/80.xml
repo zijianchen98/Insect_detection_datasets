@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>80.jpg</filename>
+	<path>D:\deeplearning_github\insects_detection\VOCdevkit\VOC2007\JPEGImages\80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>67</ymin>
+			<xmax>789</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>

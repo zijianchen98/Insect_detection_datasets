@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>41.jpg</filename>
+	<path>D:\deeplearning_github\insects_detection\VOCdevkit\VOC2007\JPEGImages\41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>686</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>109</ymin>
+			<xmax>320</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

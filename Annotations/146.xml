@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>146.jpg</filename>
+	<path>D:\deeplearning_github\insects_detection\VOCdevkit\VOC2007\JPEGImages\146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>563</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>huangchong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>94</ymin>
+			<xmax>551</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>
